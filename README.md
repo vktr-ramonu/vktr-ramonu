@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm vktr and a newbie.
+Looking to discover more insights into cloud computing.
+Currently using a cloud guide to begin with.
+Any opinion and resources will be appreciated.
 
 <!--
 **vktr-ramonu/vktr-ramonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
